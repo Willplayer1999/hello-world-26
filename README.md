@@ -1,2 +1,5 @@
 # hello-world-26
-just another repository
+
+Hewwo Humans!
+
+I am B.O.T.. Nice t meet you all!
